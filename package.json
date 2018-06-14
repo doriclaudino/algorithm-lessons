@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-es6-mocha",
+  "name": "algorithm-lessons",
   "version": "1.0.0",
-  "description": "boilerplate javascript es6 + mocha",
+  "description": "algorithm-lessons",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint",

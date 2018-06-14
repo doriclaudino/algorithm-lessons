@@ -1,4 +1,4 @@
-# Boilerplate Javascript es6 + Mocha
+# Algorithm lessons Javascript es6 + Mocha
 
 ### Setup the project
 ```bash

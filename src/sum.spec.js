@@ -1,7 +1,7 @@
-import { expect } from 'chai';
-import { solution } from './sum';
+import { expect } from "chai";
+import { solution } from "./sum";
 
-describe('sum', function() {
+describe("sum", function() {
   [
     {
       X: 1,

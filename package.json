@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "./node_modules/.bin/eslint",
     "test": "./node_modules/.bin/mocha",
-    "retest": "./node_modules/.bin/mocha -w --recursive"
+    "retest": "./node_modules/.bin/mocha -w --recursive --slow 0"
   },
   "license": "MIT",
   "devDependencies": {
